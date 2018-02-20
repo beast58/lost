@@ -8,9 +8,59 @@
 <tmdb>list/https://www.themoviedb.org/list/47747</tmdb>
 </dir>
  
- <dir>
-<title>Predator mythology</title>
+<dir>
+<title>mythology</title>
 <tmdb>list/https://www.themoviedb.org/list/47717</tmdb>
+</dir>
+
+<dir>
+<title>Drama/atcion</title>
+<tmdb>list/https://www.themoviedb.org/list/47844</tmdb>
+</dir>
+
+<dir>
+<title>Chick flicks</title>
+<tmdb>list/https://www.themoviedb.org/list/47936</tmdb>
+</dir>
+
+<dir>
+<title>Hood movies</title>
+<tmdb>list/https://www.themoviedb.org/list/47832</tmdb>
+</dir>
+
+<dir>
+<title>Tylr Perry movies</title>
+<tmdb>list/https://www.themoviedb.org/list/48265</tmdb>
+</dir
+
+<dir>
+<title>Urban movies</title>
+<tmdb>list/https://www.themoviedb.org/list/48024</tmdb>
+</dir>
+
+<dir>
+<title>Urban Drama/action</title>
+<tmdb>list/https://www.themoviedb.org/list/48098</tmdb>
+</dir>
+
+<dir>
+<title>Urban comedy movies</title>
+<tmdb>list/https://www.themoviedb.org/list/48100</tmdb>
+</dir>
+
+<dir>
+<title>Urban love</title>
+<tmdb>list/https://www.themoviedb.org/list/48099</tmdb>
+</dir>
+
+<dir>
+<title>Comedy movies</title>
+<tmdb>list/https://www.themoviedb.org/list/47834</tmdb>
+</dir>
+
+<dir>
+<title>Late night</title>
+<tmdb>list/https://www.themoviedb.org/list/47843</tmdb>
 </dir>
 
 <dir>
@@ -19,12 +69,12 @@
 </dir>
 
 <dir>
-   <title>DC</title>
-   <link>https://raw.githubusercontent.com/Trapper69/trappor/master/DC.xml</link>
+<title>DC</title>
+<link>https://raw.githubusercontent.com/beast58/lost/master/DC.xml</link>
 </dir>
 
 <dir>
-<title>Predator westerns</title>
+<title>westerns</title>
 <tmdb>list/https://www.themoviedb.org/list/47711</tmdb>
 </dir>
 
@@ -39,18 +89,18 @@
 </dir>
 
 <dir>
-<title>Trapper animes</title>
+<title>animes tv</title>
 <tmdb>list/https://www.themoviedb.org/list/47315</tmdb>
 </dir>
 
 <dir>
-<title>Trapper Urban</title>
+<title>Urban</title>
 <tmdb>list/https://www.themoviedb.org/list/47582</tmdb>
 </dir>
 
 <dir>
     <title>actors (2)</title>
-    <link>https://raw.githubusercontent.com/Trapper69/trappor/master/actors%20(2).xml</link>
+    <link>https://raw.githubusercontent.com/beast58/lost/master/actors%20(2).xml</link>
   </dir>
   <dir>
     <title>Collections</title>
@@ -97,22 +147,6 @@
 <dir>
       <title>TMDB Now Playing</title>
       <tmdb>movies/now_playing</tmdb>
-</dir>
-
-<dir>
-      <title>TMDB Top Rated</title>
-      <tmdb>movies/top_rated</tmdb>
-</dir>
-
-<dir>
-      <title>TMDB Popular</title>
-      <tmdb>tv/popular</tmdb>
-</dir>
-
-
-<dir>      
-	  <title>TMDB Top Rated</title>
-      <tmdb>tv/top_rated</tmdb>
 </dir>
   
   <dir>
